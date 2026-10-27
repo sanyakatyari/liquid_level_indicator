@@ -1,0 +1,127 @@
+[
+    {
+        "sheet_name": "Main Sheet",
+        "sheet_path": "C:/Users/Lenovo/Desktop/liquid level indicator/liquid level indicator.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "Q2",
+                "x_position": 132.08,
+                "y_position": 101.6,
+                "rotation": 0
+            },
+            {
+                "reference": "R5",
+                "x_position": 151.13,
+                "y_position": 96.52,
+                "rotation": 90
+            },
+            {
+                "reference": "BZ1",
+                "x_position": 166.37,
+                "y_position": 48.26,
+                "rotation": 90
+            },
+            {
+                "reference": "Q4",
+                "x_position": 130.81,
+                "y_position": 63.5,
+                "rotation": 0
+            },
+            {
+                "reference": "D3",
+                "x_position": 182.88,
+                "y_position": 115.57,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR02",
+                "x_position": 186.69,
+                "y_position": 40.64,
+                "rotation": 0
+            },
+            {
+                "reference": "J1",
+                "x_position": 90.17,
+                "y_position": 132.08,
+                "rotation": 270
+            },
+            {
+                "reference": "Q3",
+                "x_position": 132.08,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR01",
+                "x_position": 152.4,
+                "y_position": 128.27,
+                "rotation": 0
+            },
+            {
+                "reference": "Q1",
+                "x_position": 132.08,
+                "y_position": 120.65,
+                "rotation": 0
+            },
+            {
+                "reference": "D2",
+                "x_position": 181.61,
+                "y_position": 96.52,
+                "rotation": 0
+            },
+            {
+                "reference": "R1",
+                "x_position": 106.68,
+                "y_position": 86.36,
+                "rotation": 90
+            },
+            {
+                "reference": "D1",
+                "x_position": 181.61,
+                "y_position": 80.01,
+                "rotation": 0
+            },
+            {
+                "reference": "R6",
+                "x_position": 149.86,
+                "y_position": 115.57,
+                "rotation": 90
+            },
+            {
+                "reference": "#FLG01",
+                "x_position": 198.12,
+                "y_position": 39.37,
+                "rotation": 0
+            },
+            {
+                "reference": "R2",
+                "x_position": 107.95,
+                "y_position": 101.6,
+                "rotation": 90
+            },
+            {
+                "reference": "R3",
+                "x_position": 107.95,
+                "y_position": 120.65,
+                "rotation": 90
+            },
+            {
+                "reference": "J2",
+                "x_position": 163.83,
+                "y_position": 137.16,
+                "rotation": 90
+            },
+            {
+                "reference": "R4",
+                "x_position": 149.86,
+                "y_position": 80.01,
+                "rotation": 90
+            }
+        ],
+        "sheet_files": []
+    }
+]
